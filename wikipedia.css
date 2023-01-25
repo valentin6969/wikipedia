@@ -1,0 +1,7 @@
+.class-name {
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 300px;
+}
